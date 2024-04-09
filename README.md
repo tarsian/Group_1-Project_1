@@ -29,7 +29,8 @@
   Game Data
   
   ![Game data](https://github.com/tarsian/Group_1-Project_1/assets/24801648/bf8d7235-767f-412d-beff-5c07b4d3e808)
-
+  
+# 4. Result
   Choosing Favrite Team for Winning the games
   ![scatter_plot_with_linear_regression](https://github.com/tarsian/Group_1-Project_1/assets/24801648/8af13961-cc8a-4fc7-91c9-c91dc1b06a41)
 
