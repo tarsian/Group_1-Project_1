@@ -23,6 +23,7 @@
 
 # 3. Generate Data
   Win Rate
+  
   ![Moneyline](https://github.com/tarsian/Group_1-Project_1/assets/24801648/e7bd392c-8eb6-4a80-bfc3-1b050063cd28)
   
   Game Data
